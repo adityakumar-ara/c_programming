@@ -1,1 +1,1 @@
-printf("sum is %d",sum);
+ // i=i+2;
