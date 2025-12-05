@@ -1,1 +1,1 @@
-  n=n/10;
+ printf("address of a %d",&a);
