@@ -30,11 +30,21 @@ void strcmps()
     printf("stringcmp is %d",strcmp(a,b));
     printf("\n");
 }
+void strlens()
+{
+    char a[] = "aditya";
+    char b[] = "kumar";
+    char total_len=strlen(a)+strlen(b);
+
+    printf("total lenght is %d",total_len);
+    printf("\n");
+}
 int main()
 {
     strcats();
     strrevs();
     strcpys();
     strcmps();
+    strlens();
     return 0;
 }
