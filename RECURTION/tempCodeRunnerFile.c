@@ -1,0 +1,1 @@
+ printf("\nThe Factorial of %d is: %d\n", num);
