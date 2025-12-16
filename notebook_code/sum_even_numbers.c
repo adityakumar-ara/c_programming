@@ -15,7 +15,7 @@
 
 // #include<stdio.h>
 // int main(){
-//     int n,sum=0,i=1;
+//     int n,sum=0,i=0;
 //     printf("enter your number:");
 //     scanf("%d",&n);
 //     printf("%d",i);

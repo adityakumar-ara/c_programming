@@ -1,1 +1,0 @@
- printf("address of a %d",&a);
